@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|c:\\users\\lenovo\\downloads\\th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\thehien\\formxulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\formxulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\xuly\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\xuly\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|c:\\users\\lenovo\\downloads\\th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\xuly\\xingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\xuly\\xingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|c:\\users\\lenovo\\downloads\\th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\dulieu\\dulieubanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\dulieu\\dulieubanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DuLieuBanCo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
+              "RelativeToolTip": "ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
+              "ViewState": "AQIAANkAAAAAAAAAAAAUwNoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:27:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XiNgau.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\XuLy\\XiNgau.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\XuLy\\XiNgau.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\XuLy\\XiNgau.cs",
+              "RelativeToolTip": "ludogame_v4\\XuLy\\XiNgau.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:24:32.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BanCo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\XuLy\\BanCo.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\XuLy\\BanCo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\XuLy\\BanCo.cs",
+              "RelativeToolTip": "ludogame_v4\\XuLy\\BanCo.cs",
+              "ViewState": "AQIAALMAAAAAAAAAAAAIwJYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:48:08.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormXuLyChinh.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAiwOcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:28:26.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TheHienQuanCo.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Downloads\\Th\u01B0 mu\u0323c m\u01A1\u0301i\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "ViewState": "AQIAAMAAAAAAAAAAAAAAAMsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:29:06.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

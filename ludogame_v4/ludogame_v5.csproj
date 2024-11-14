@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{230C3B37-A996-4687-8938-FF9ADC262D25}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ludogame_v4</RootNamespace>
+    <AssemblyName>ludogame_v4</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DuLieu\DuLieuBanCo.cs" />
+    <Compile Include="DuLieu\DuLieuQuanCo.cs" />
+    <Compile Include="DuLieu\DuLieuTuyChon.cs" />
+    <Compile Include="DuLieu\DuLieuUser.cs" />
+    <Compile Include="login\Connection.cs" />
+    <Compile Include="login\Modifi.cs" />
+    <Compile Include="login\TaiKhoan.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="login\ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\ForgotPassword.Designer.cs">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TheHien\BangXepHang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TheHien\BangXepHang.Designer.cs">
+      <DependentUpon>BangXepHang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TheHien\FormXuLyChinh.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TheHien\FormXuLyChinh.Designer.cs">
+      <DependentUpon>FormXuLyChinh.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login\SignUp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login\SignUp.Designer.cs">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TheHien\TheHienQuanCo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TheHien\TheHienQuanCo.Designer.cs">
+      <DependentUpon>TheHienQuanCo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TheHien\TheHienXiNgau.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="TheHien\TheHienXiNgau.Designer.cs">
+      <DependentUpon>TheHienXiNgau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TheHien\TuyChon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TheHien\TuyChon.Designer.cs">
+      <DependentUpon>TuyChon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XuLy\BanCo.cs" />
+    <Compile Include="XuLy\LuuDuLieuSql.cs" />
+    <Compile Include="XuLy\QuanCo.cs" />
+    <Compile Include="XuLy\XiNgau.cs" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="login\ForgotPassword.resx">
+      <DependentUpon>ForgotPassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TheHien\BangXepHang.resx">
+      <DependentUpon>BangXepHang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TheHien\FormXuLyChinh.resx">
+      <DependentUpon>FormXuLyChinh.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login\SignUp.resx">
+      <DependentUpon>SignUp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TheHien\TheHienXiNgau.resx">
+      <DependentUpon>TheHienXiNgau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TheHien\TuyChon.resx">
+      <DependentUpon>TuyChon.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\HinhBanCo\Thumbs.db" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\HinhBanCo\BANCO1.BMP" />
+    <Content Include="bin\Debug\HinhBanCo\LOGO.BMP" />
+    <None Include="bin\Debug\HinhBangXepHang\BangXepHang.jpg" />
+    <Content Include="bin\Debug\HinhNgua\CAM.GIF" />
+    <Content Include="bin\Debug\HinhNgua\DO.GIF" />
+    <Content Include="bin\Debug\HinhNgua\DUONG.GIF" />
+    <Content Include="bin\Debug\HinhNgua\HONG.GIF" />
+    <Content Include="bin\Debug\HinhNgua\LAM.GIF" />
+    <Content Include="bin\Debug\HinhNgua\TIM.GIF" />
+    <Content Include="bin\Debug\HinhNgua\TRANG.GIF" />
+    <Content Include="bin\Debug\HinhNgua\VANG.GIF" />
+    <Content Include="bin\Debug\HinhNgua\XAM.GIF" />
+    <Content Include="bin\Debug\HinhNgua\XANH.GIF" />
+    <Content Include="bin\Debug\HinhXiNgau\1.JPG" />
+    <Content Include="bin\Debug\HinhXiNgau\2.JPG" />
+    <Content Include="bin\Debug\HinhXiNgau\3.JPG" />
+    <Content Include="bin\Debug\HinhXiNgau\4.JPG" />
+    <Content Include="bin\Debug\HinhXiNgau\5.JPG" />
+    <Content Include="bin\Debug\HinhXiNgau\6.JPG" />
+    <Content Include="bin\Debug\HinhXiNgau\7.JPG" />
+    <Content Include="bin\Debug\HinhXiNgau\8.JPG" />
+    <Content Include="bin\Debug\HinhXiNgau\9.JPG" />
+    <None Include="bin\Debug\image\icons8-password-30.png" />
+    <None Include="bin\Debug\image\icons8-account-30.png" />
+    <None Include="bin\Debug\image\unnamed.png" />
+    <None Include="Resources\BANCO1.BMP" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

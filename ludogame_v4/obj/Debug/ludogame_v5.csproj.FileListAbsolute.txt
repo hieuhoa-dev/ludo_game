@@ -1,0 +1,74 @@
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\bin\Debug\ludogame_v4.exe.config
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\bin\Debug\ludogame_v4.exe
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\bin\Debug\ludogame_v4.pdb
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.AssemblyReference.cache
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\obj\Debug\ludogame_v4.Properties.Resources.resources
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.FormXuLyChinh.resources
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TheHienXiNgau.resources
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TuyChon.resources
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.GenerateResource.cache
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.CoreCompileInputs.cache
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\obj\Debug\ludogame_v4.exe
+C:\Users\hoang\source\repos\ludogame_v5\ludogame_v4\obj\Debug\ludogame_v4.pdb
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\bin\Debug\ludogame_v4.exe.config
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\bin\Debug\ludogame_v4.exe
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\bin\Debug\ludogame_v4.pdb
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.FormXuLyChinh.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TheHienXiNgau.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TuyChon.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.exe
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.pdb
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\bin\Debug\ludogame_v4.exe.config
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\bin\Debug\ludogame_v4.exe
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\bin\Debug\ludogame_v4.pdb
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v5.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v4.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v4.TheHien.FormXuLyChinh.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TheHienXiNgau.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TuyChon.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v5.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v4.exe
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v4.pdb
+D:\git\ludo_game_v5\ludogame_v4\bin\Debug\ludogame_v4.exe.config
+D:\git\ludo_game_v5\ludogame_v4\bin\Debug\ludogame_v4.exe
+D:\git\ludo_game_v5\ludogame_v4\bin\Debug\ludogame_v4.pdb
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.AssemblyReference.cache
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.Properties.Resources.resources
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.FormXuLyChinh.resources
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TheHienXiNgau.resources
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TuyChon.resources
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.GenerateResource.cache
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.CoreCompileInputs.cache
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.exe
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.pdb
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.Login.resources
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.SignUp.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v4.TheHien.ForgotPassword.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v4.TheHien.Login.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5_Test\ludogame_v4\obj\Debug\ludogame_v4.TheHien.SignUp.resources
+D:\git\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.ForgotPassword.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.ForgotPassword.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.Login.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.SignUp.resources
+C:\Users\Lenovo\Downloads\Thư mục mới\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.BangXepHang.resources
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\bin\Debug\ludogame_v4.exe.config
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\bin\Debug\ludogame_v4.exe
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\bin\Debug\ludogame_v4.pdb
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.Properties.Resources.resources
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.ForgotPassword.resources
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.BangXepHang.resources
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.FormXuLyChinh.resources
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.Login.resources
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.SignUp.resources
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TheHienXiNgau.resources
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.TheHien.TuyChon.resources
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.exe
+C:\Users\Lenovo\Downloads\ludo_game_v5\ludogame_v4\obj\Debug\ludogame_v4.pdb
