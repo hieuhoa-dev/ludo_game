@@ -14,13 +14,13 @@ namespace ludogame_v4.DuLieu
 	{
 		private int nUsers; // Số người 
 
-		private int UserHH;
+		private int UserHH; // Người chơi hiện tại
 
 		private int nOco; // Số ô trên bàn cờ
 
-		public int[] arrBC;
+		public int[] arrBC; // Mảng số ô trên bàn cờ
 
-		public int SoXN;
+		public int SoXN; // Số Xí Ngầu: 1XN or 2XN
 
 		public int gtXN1; // Giá tri 1 xí ngầu 
 
@@ -118,7 +118,8 @@ namespace ludogame_v4.DuLieu
 			KhoiTao(tc.SoNguaQuan);
 		}
 
-		public void KhoiTaoMangVeDich(int iUser, DuLieuUser User)
+        // Khởi tạo mảng về đích cho từng User
+        public void KhoiTaoMangVeDich(int iUser, DuLieuUser User)
 		{
 			int num = 27;
 			int num2 = 6;

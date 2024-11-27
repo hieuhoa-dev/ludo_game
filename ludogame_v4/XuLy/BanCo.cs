@@ -86,7 +86,7 @@ namespace ludogame_v4.XuLy
             }
         }
 
-        public void TuDongDiChuyen(DuLieuUser User)
+        public void TuDongDiChuyenQuanCo(DuLieuUser User)
         {
             for (int i = 0; i < User.SoQuanCo; i++)
             {
@@ -95,12 +95,12 @@ namespace ludogame_v4.XuLy
             }
         }
 
-        public void TuDongDiChuyenCacQuan()
+        public void TuDongDiChuyenNguoiChoi()
         {
             int soNguoichoi = DLBC.SoNguoichoi;
             for (int i = 0; i < soNguoichoi; i++)
             {
-                TuDongDiChuyen((DuLieuUser)DLBC.arrUsers[i]);
+                TuDongDiChuyenQuanCo((DuLieuUser)DLBC.arrUsers[i]);
             }
         }
 
@@ -148,14 +148,15 @@ namespace ludogame_v4.XuLy
 			}
 		}
 
-        public bool KiemTraXuLyBanCo()
+        // Kiểm tra người chơi còn nước đi không
+        public bool KiemTraNguoiChoiDiDc() 
         {
             int userHienTai = DLBC.UserHienTai;
             DuLieuUser duLieuUser = (DuLieuUser)DLBC.arrUsers[userHienTai - 1];
             for (int i = 0; i < duLieuUser.SoQuanCo; i++)
             {
                 QuanCo quanCo = (QuanCo)duLieuUser.arrQC[i];
-               if (quanCo.QCTH.KiemTraThucHienNuocDi() == 1)        
+               if (quanCo.QCTH.KiemTraQuanCoDiDc() == 1)        
                 {
                     return true;
                 }    

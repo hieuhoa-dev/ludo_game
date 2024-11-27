@@ -7,11 +7,13 @@ using System.Threading.Tasks;
 
 namespace ludogame_v4.DuLieu
 {
-	public class DuLieuQuanCo
+	public class DuLieuQuanCo // Lưu giá trị các Quân cờ
 	{
+		//Lưu trị trí trong Chuồng
 		private Point vtTrongChuong;
 
-		private int vtTrenBC;
+        //Lưu trị trí trên bàn cờ
+        private int vtTrenBC;
 
 		private int vtRQ;
 
@@ -19,7 +21,8 @@ namespace ludogame_v4.DuLieu
 
 		private int Mau;
 
-		public int Bac; //Số bậc về đích 
+		//Số bậc về đích: có 6 bậc, Bậc = 5 
+		public int Bac; 
 
 		public int Count;
 

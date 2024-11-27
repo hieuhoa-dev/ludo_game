@@ -10,18 +10,16 @@ namespace ludogame_v4.XuLy
 {
 	public class QuanCo
 	{
+		// 1 quân cờ gồm có:
+			// thể hiện quân cờ,
+			// dữ liệu quân cờ
 		public TheHienQuanCo QCTH;
-
 		public DuLieuQuanCo QCDL;
 
 		public QuanCo()
 		{
 			QCTH = new TheHienQuanCo();
 			QCDL = new DuLieuQuanCo();
-		}
-
-		public void XuLyQuanCo(int MauHH)
-		{
 		}
 	}
 }

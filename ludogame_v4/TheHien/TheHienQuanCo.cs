@@ -201,7 +201,7 @@ namespace ludogame_v4.TheHien
             return 0;
         }
 
-        public int KiemTraThucHienNuocDi() // Kiem tra có đi dc hay không
+        public int KiemTraQuanCoDiDc() // Kiem tra có đi dc hay không
         {
             if (dlqc.ViTriTrenBanCo == -1)
             {

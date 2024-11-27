@@ -68,7 +68,7 @@ namespace ludogame_v4.TheHien
 			}
 			catch (Exception ex)
 			{
-				MessageBox.Show("Tên tài khoản nay đã được đăng ký vui lòng đăng ký tên tài khoản khác ");
+				MessageBox.Show("Tên tài khoản nay đã được đăng ký vui lòng đăng ký tên tài khoản khác, Error: "+ ex);
 			}
 
 

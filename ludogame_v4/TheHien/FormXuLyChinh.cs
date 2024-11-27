@@ -41,11 +41,12 @@ namespace ludogame_v4.TheHien
 
         private Button btnThoat;
         private Colors currentTurn;
-        private BanCo BC = new BanCo();
+        private BanCo BC;
 
         private TuyChon TuyChonThamSo = new TuyChon();
 
-        private bool bEnter = false;
+        private bool isAutoRunning = false;
+        LuuDuLieuSql Data = new LuuDuLieuSql();
 
         public FormXuLyChinh()
         {
@@ -63,7 +64,6 @@ namespace ludogame_v4.TheHien
 
         private void XuLyChinh_Load(object sender, EventArgs e)
         {
-            //LoadHinhBC();
             XN.SoXN = TuyChonThamSo.tc.SoHotXiNgau;
             btnDoXiNgau.Enabled = false;
 
@@ -101,12 +101,9 @@ namespace ludogame_v4.TheHien
         public void ResetManHinh()
         {
             panelBC.BackgroundImage = new Bitmap(TuyChonThamSo.tc.HinhBanCo);
-            //TheHienXN = new TheHienXiNgau();
             TheHienXN.SoXiNgauTheHien = TuyChonThamSo.tc.SoHotXiNgau;
             TheHienXN.DinhViXiNgau();
-            //this.panelXN_Red.Controls.Clear();
-            //this.panelXN_Blue.Controls.Clear();
-
+            BC = new BanCo();
             BC.DLBC.CapNhatDL(TuyChonThamSo.tc);
         }
 
@@ -128,7 +125,7 @@ namespace ludogame_v4.TheHien
 
         private void btnDoXiNgau_Click(object sender, EventArgs e)
         {
-                
+
             picLuotQC.Image = new Bitmap(GetStrImage());
             switch (currentTurn)
             {
@@ -157,16 +154,16 @@ namespace ludogame_v4.TheHien
                     break;
             }
             BC.DLBC.CapNhatGTXN(XN);
-            
+
             BC.XuLyBanCo();
 
-            if (BC.KiemTraXuLyBanCo() == false) // Có đi dc không, nếu không thì chuyển User tiếp thep
+            if (BC.KiemTraNguoiChoiDiDc() == false) // Có đi dc không, nếu không thì chuyển User tiếp thep
             {
-                DoiNguoi();
+                UserNext();
             }
         }
 
-        void DoiNguoi()
+        void UserNext()
         {
             BC.DLBC.UserHienTai = BC.DLBC.UserHienTai % BC.DLBC.SoNguoichoi + 1;
         }
@@ -185,7 +182,40 @@ namespace ludogame_v4.TheHien
             this.Close();
         }
 
-        LuuDuLieuSql Data = new LuuDuLieuSql();
+
+
+
+        //async void HamAuto()
+        //{
+        //    isAutoRunning = TuyChonThamSo.KiemTraChoiVoiMay();
+        //    //isAutoRunning = true;
+        //    while (isAutoRunning)
+        //    {
+        //        await Task.Delay(1000);
+        //        for (int i = 0; i < TuyChonThamSo.tc.SoMay.Length; i++)
+        //        {
+        //            if (BC.DLBC.UserHienTai == i + 1 && TuyChonThamSo.tc.SoMay[i] == 1)
+        //            {
+        //                {
+        //                    btnDoXiNgau.PerformClick();
+        //                    await Task.Delay(500);
+        //                    BC.TuDongDiChuyenCacQuan();
+        //                    await Task.Delay(1000);
+        //                    //isAutoRunning = true;
+        //                }
+        //            }
+        //            //if (BC.DLBC.UserHienTai != i + 1 && TuyChonThamSo.tc.SoMay[i] != 1)
+        //            //{
+        //            //    isAutoRunning = false;
+        //            //    HamAuto();
+        //            //}
+
+        //        }
+        //    }
+
+
+        //}
+
         private void btnSapBanCo_Click(object sender, EventArgs e)
         {
             panelXN.Controls.Add(TheHienXN);
@@ -196,41 +226,52 @@ namespace ludogame_v4.TheHien
             Data.CreateBanSql();
             btnSapBanCo.Enabled = false;
             btnDoXiNgau.Enabled = true;
-
+            TatHanAuto();
             isAutoRunning = TuyChonThamSo.KiemTraChoiVoiMay();
-            HamAuto();
+            if (isAutoRunning)
+                HamAuto();
+
+            else
+                TatHanAuto();
         }
 
-        private bool isAutoRunning = false;
-        async void HamAuto()
+        private Timer timer = null;
+        void HamAuto()
         {
-            isAutoRunning = TuyChonThamSo.KiemTraChoiVoiMay();
-            //isAutoRunning = true;
-            while (isAutoRunning)
+            if (timer == null)
             {
-                await Task.Delay(1000);
-                for (int i = 0; i < TuyChonThamSo.tc.SoMay.Length; i++)
-                {
-                    if (BC.DLBC.UserHienTai == i + 1 && TuyChonThamSo.tc.SoMay[i] == 1)
-                    {
-                        {
-                            btnDoXiNgau.PerformClick();
-                            await Task.Delay(500);
-                            BC.TuDongDiChuyenCacQuan();
-                            await Task.Delay(1000);
-                            //isAutoRunning = true;
-                        }
-                    }
-                    //if (BC.DLBC.UserHienTai != i + 1 && TuyChonThamSo.tc.SoMay[i] != 1)
-                    //{
-                    //    isAutoRunning = false;
-                    //    HamAuto();
-                    //}
+                timer = new Timer();
+                timer.Interval = 2500;
+                timer.Tick += Timer_Tick;
+            }
+            timer.Start();
+        }
+        void TatHanAuto()
+        {
+            if (timer != null)
+            {
+                timer.Stop();
+                timer.Tick -= Timer_Tick;
+                timer.Dispose();
+                timer = null;
+            }
+        }
 
+        private async void Timer_Tick(object sender, EventArgs e)
+        {
+            //await Task.Delay(500);
+            for (int i = 0; i < TuyChonThamSo.tc.SoMay.Length; i++)
+            {
+                if (BC.DLBC.UserHienTai == i + 1 && TuyChonThamSo.tc.SoMay[i] == 1)
+                {
+                    {
+                        btnDoXiNgau.PerformClick(); // Gọi lệnh đỗ Xúc sắc
+                        await Task.Delay(400);
+                        BC.TuDongDiChuyenNguoiChoi();
+                        await Task.Delay(1300);
+                    }
                 }
             }
-
-
         }
 
         private void btnRank_Click(object sender, EventArgs e)
