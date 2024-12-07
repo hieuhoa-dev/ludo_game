@@ -3,19 +3,7 @@
   "WorkspaceRootPath": "D:\\ludo_game_v5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|d:\\ludo_game_v5\\ludogame_v4\\thehien\\formxulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\formxulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\xuly\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\xuly\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|d:\\ludo_game_v5\\ludogame_v4\\login\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\login\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|d:\\ludo_game_v5\\ludogame_v4\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -23,40 +11,48 @@
       "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\thehienquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\xuly\\quanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\xuly\\quanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\dulieu\\dulieuquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\dulieu\\dulieuquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\formxulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\formxulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\dulieu\\dulieubanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\dulieu\\dulieubanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\thehienxingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\thehienxingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\tuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\tuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\tuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\tuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\thehienxingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\thehienxingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\formxulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\formxulychinh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\xuly\\xingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\xuly\\xingau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\formxulychinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\formxulychinh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\xuly\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\xuly\\banco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\bangxephang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\bangxephang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\thehien\\tuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\thehien\\tuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\dulieu\\dulieutuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\dulieu\\dulieutuychon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\dulieu\\dulieubanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\dulieu\\dulieubanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\dulieu\\dulieuquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\dulieu\\dulieuquanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\xuly\\quanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|solutionrelative:ludogame_v4\\xuly\\quanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{230C3B37-A996-4687-8938-FF9ADC262D25}|ludogame_v4\\ludogame_v5.csproj|D:\\ludo_game_v5\\ludogame_v4\\dulieu\\dulieuuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,50 +66,153 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "SignUp.cs",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\login\\SignUp.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\login\\SignUp.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\login\\SignUp.cs",
-              "RelativeToolTip": "ludogame_v4\\login\\SignUp.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAADgv0YAAABjAAAA",
+              "Title": "FormXuLyChinh.cs [Design]",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs [Design]",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\FormXuLyChinh.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T06:04:04.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T13:28:27.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FormXuLyChinh.cs",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\FormXuLyChinh.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs",
-              "RelativeToolTip": "ludogame_v4\\TheHien\\FormXuLyChinh.cs",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAMwOQAAAAZAAAA",
+              "DocumentIndex": 9,
+              "Title": "DuLieuTuyChon.cs",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuTuyChon.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\DuLieu\\DuLieuTuyChon.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuTuyChon.cs",
+              "RelativeToolTip": "ludogame_v4\\DuLieu\\DuLieuTuyChon.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGMAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T09:28:26.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-07T10:04:28.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TuyChon.cs [Design]",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TuyChon.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TuyChon.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TuyChon.cs [Design]",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\TuyChon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:09:58.81Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BanCo.cs",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\XuLy\\BanCo.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\XuLy\\BanCo.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\XuLy\\BanCo.cs",
-              "RelativeToolTip": "ludogame_v4\\XuLy\\BanCo.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAWwGEAAAArAAAA",
+              "Title": "TheHienQuanCo.cs [Design]",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs [Design]",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\TheHienQuanCo.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T08:48:08.075Z",
+              "WhenOpened": "2024-12-07T09:57:27.591Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheHienQuanCo.cs",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\TheHienQuanCo.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAjwGsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T06:29:06.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "FormXuLyChinh.Designer.cs",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.Designer.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\FormXuLyChinh.Designer.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.Designer.cs",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\FormXuLyChinh.Designer.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAGcAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:35:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BanCo.cs",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\XuLy\\BanCo.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\XuLy\\BanCo.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\XuLy\\BanCo.cs",
+              "RelativeToolTip": "ludogame_v4\\XuLy\\BanCo.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAhwG0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T08:48:08.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormXuLyChinh.cs",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\FormXuLyChinh.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAgwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:28:26.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BangXepHang.cs [Design]",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\BangXepHang.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\BangXepHang.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\BangXepHang.cs [Design]",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\BangXepHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:28:26.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TuyChon.cs",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TuyChon.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TuyChon.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TuyChon.cs",
+              "RelativeToolTip": "ludogame_v4\\TheHien\\TuyChon.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAAAAUBAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T10:10:03.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DuLieuBanCo.cs",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
+              "RelativeToolTip": "ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAUwF8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:27:16.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DuLieuUser.cs",
+              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuUser.cs",
+              "RelativeDocumentMoniker": "ludogame_v4\\DuLieu\\DuLieuUser.cs",
+              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuUser.cs",
+              "RelativeToolTip": "ludogame_v4\\DuLieu\\DuLieuUser.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAnwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T04:05:00.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "QuanCo.cs",
               "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\XuLy\\QuanCo.cs",
               "RelativeDocumentMoniker": "ludogame_v4\\XuLy\\QuanCo.cs",
@@ -121,140 +220,19 @@
               "RelativeToolTip": "ludogame_v4\\XuLy\\QuanCo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:10:45.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-27T04:10:45.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "DuLieuQuanCo.cs",
               "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuQuanCo.cs",
               "RelativeDocumentMoniker": "ludogame_v4\\DuLieu\\DuLieuQuanCo.cs",
               "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuQuanCo.cs",
               "RelativeToolTip": "ludogame_v4\\DuLieu\\DuLieuQuanCo.cs",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAgwFsAAAANAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAQwFsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:04:58.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TheHienQuanCo.cs [Design]",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TheHienQuanCo.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs [Design]",
-              "RelativeToolTip": "ludogame_v4\\TheHien\\TheHienQuanCo.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:39:37.202Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TheHienQuanCo.cs",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TheHienQuanCo.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienQuanCo.cs",
-              "RelativeToolTip": "ludogame_v4\\TheHien\\TheHienQuanCo.cs",
-              "ViewState": "AQIAALwAAAAAAAAAAAAUwMsAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T06:29:06.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FormXuLyChinh.cs [Design]",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\FormXuLyChinh.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\FormXuLyChinh.cs [Design]",
-              "RelativeToolTip": "ludogame_v4\\TheHien\\FormXuLyChinh.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T03:00:14.901Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TheHienXiNgau.cs [Design]",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienXiNgau.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TheHienXiNgau.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienXiNgau.cs [Design]",
-              "RelativeToolTip": "ludogame_v4\\TheHien\\TheHienXiNgau.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:37:05.761Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DuLieuBanCo.cs",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
-              "RelativeToolTip": "ludogame_v4\\DuLieu\\DuLieuBanCo.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAqwAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:27:16.049Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "TuyChon.cs",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TuyChon.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TuyChon.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TuyChon.cs",
-              "RelativeToolTip": "ludogame_v4\\TheHien\\TuyChon.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAAwBEAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:36:54.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TuyChon.cs [Design]",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TuyChon.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TuyChon.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TuyChon.cs [Design]",
-              "RelativeToolTip": "ludogame_v4\\TheHien\\TuyChon.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:38:33.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "TheHienXiNgau.cs",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienXiNgau.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\TheHien\\TheHienXiNgau.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\TheHien\\TheHienXiNgau.cs",
-              "RelativeToolTip": "ludogame_v4\\TheHien\\TheHienXiNgau.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:37:07.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "XiNgau.cs",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\XuLy\\XiNgau.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\XuLy\\XiNgau.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\XuLy\\XiNgau.cs",
-              "RelativeToolTip": "ludogame_v4\\XuLy\\XiNgau.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:24:32.764Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "DuLieuUser.cs",
-              "DocumentMoniker": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuUser.cs",
-              "RelativeDocumentMoniker": "ludogame_v4\\DuLieu\\DuLieuUser.cs",
-              "ToolTip": "D:\\ludo_game_v5\\ludogame_v4\\DuLieu\\DuLieuUser.cs",
-              "RelativeToolTip": "ludogame_v4\\DuLieu\\DuLieuUser.cs",
-              "ViewState": "AQIAADEAAAAAAAAAAIA+wEMAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-27T04:05:00.717Z"
+              "WhenOpened": "2024-11-27T04:04:58.35Z"
             }
           ]
         }

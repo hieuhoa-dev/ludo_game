@@ -40,9 +40,9 @@ namespace ludogame_v4.XuLy
             int count = panel.Controls.Count;
             for (int num = count - 1; num >= 0; num--)
             {
-                if (panel.Controls[num].Name != "panelXN_Red" && panel.Controls[num].Name != "panelXN_Blue"&&
+                if (panel.Controls[num].Name != "panelXN_Red" && panel.Controls[num].Name != "panelXN_Blue" &&
 
-					panel.Controls[num].Name != "panelXN_Yellow"&& panel.Controls[num].Name != "panelXN_Green")
+                    panel.Controls[num].Name != "panelXN_Yellow" && panel.Controls[num].Name != "panelXN_Green")
                     panel.Controls.RemoveAt(num);
             }
         }

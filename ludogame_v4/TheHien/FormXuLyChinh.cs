@@ -101,6 +101,11 @@ namespace ludogame_v4.TheHien
         public void ResetManHinh()
         {
             panelBC.BackgroundImage = new Bitmap(TuyChonThamSo.tc.HinhBanCo);
+
+     
+
+            //pictureBox1.BackgroundImage = new Bitmap(TuyChonThamSo.tc.HinhBanCo);
+            //panelBC.Controls.Add(pictureBox1);
             TheHienXN.SoXiNgauTheHien = TuyChonThamSo.tc.SoHotXiNgau;
             TheHienXN.DinhViXiNgau();
             BC = new BanCo();
@@ -178,7 +183,6 @@ namespace ludogame_v4.TheHien
 
         private void btnThoat_Click(object sender, EventArgs e)
         {
-
             this.Close();
         }
 

@@ -49,6 +49,7 @@
             // 
             // panelBC
             // 
+            this.panelBC.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.panelBC.Controls.Add(this.panelXN_Red);
             this.panelBC.Controls.Add(this.panelXN_Blue);
             this.panelBC.Controls.Add(this.panelXN_Green);
@@ -57,22 +58,22 @@
             this.panelBC.Location = new System.Drawing.Point(6, 6);
             this.panelBC.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelBC.Name = "panelBC";
-            this.panelBC.Size = new System.Drawing.Size(716, 715);
+            this.panelBC.Size = new System.Drawing.Size(966, 965);
             this.panelBC.TabIndex = 0;
             // 
             // panelXN_Red
             // 
             this.panelXN_Red.BackColor = System.Drawing.Color.Transparent;
-            this.panelXN_Red.Location = new System.Drawing.Point(466, 165);
+            this.panelXN_Red.Location = new System.Drawing.Point(730, 219);
             this.panelXN_Red.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelXN_Red.Name = "panelXN_Red";
-            this.panelXN_Red.Size = new System.Drawing.Size(127, 90);
+            this.panelXN_Red.Size = new System.Drawing.Size(172, 126);
             this.panelXN_Red.TabIndex = 1;
             // 
             // panelXN_Blue
             // 
             this.panelXN_Blue.BackColor = System.Drawing.Color.Transparent;
-            this.panelXN_Blue.Location = new System.Drawing.Point(459, 454);
+            this.panelXN_Blue.Location = new System.Drawing.Point(623, 615);
             this.panelXN_Blue.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelXN_Blue.Name = "panelXN_Blue";
             this.panelXN_Blue.Size = new System.Drawing.Size(140, 101);
@@ -81,7 +82,7 @@
             // panelXN_Green
             // 
             this.panelXN_Green.BackColor = System.Drawing.Color.Transparent;
-            this.panelXN_Green.Location = new System.Drawing.Point(125, 454);
+            this.panelXN_Green.Location = new System.Drawing.Point(210, 615);
             this.panelXN_Green.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelXN_Green.Name = "panelXN_Green";
             this.panelXN_Green.Size = new System.Drawing.Size(127, 90);
@@ -90,10 +91,10 @@
             // panelXN_Yellow
             // 
             this.panelXN_Yellow.BackColor = System.Drawing.Color.Transparent;
-            this.panelXN_Yellow.Location = new System.Drawing.Point(125, 165);
+            this.panelXN_Yellow.Location = new System.Drawing.Point(162, 210);
             this.panelXN_Yellow.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.panelXN_Yellow.Name = "panelXN_Yellow";
-            this.panelXN_Yellow.Size = new System.Drawing.Size(127, 90);
+            this.panelXN_Yellow.Size = new System.Drawing.Size(175, 135);
             this.panelXN_Yellow.TabIndex = 1;
             // 
             // pictureBox1
@@ -106,13 +107,14 @@
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(716, 715);
+            this.pictureBox1.Size = new System.Drawing.Size(966, 965);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.AutoSize;
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
             // btnDoXiNgau
             // 
-            this.btnDoXiNgau.Location = new System.Drawing.Point(822, 158);
+            this.btnDoXiNgau.Location = new System.Drawing.Point(1242, 181);
             this.btnDoXiNgau.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnDoXiNgau.Name = "btnDoXiNgau";
             this.btnDoXiNgau.Size = new System.Drawing.Size(102, 32);
@@ -122,7 +124,7 @@
             // 
             // btnSapBanCo
             // 
-            this.btnSapBanCo.Location = new System.Drawing.Point(822, 225);
+            this.btnSapBanCo.Location = new System.Drawing.Point(1242, 248);
             this.btnSapBanCo.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnSapBanCo.Name = "btnSapBanCo";
             this.btnSapBanCo.Size = new System.Drawing.Size(102, 32);
@@ -133,7 +135,7 @@
             // label1
             // 
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(832, 501);
+            this.label1.Location = new System.Drawing.Point(1252, 524);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(75, 34);
             this.label1.TabIndex = 6;
@@ -142,7 +144,7 @@
             // 
             // btnTuyChon
             // 
-            this.btnTuyChon.Location = new System.Drawing.Point(822, 260);
+            this.btnTuyChon.Location = new System.Drawing.Point(1242, 283);
             this.btnTuyChon.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnTuyChon.Name = "btnTuyChon";
             this.btnTuyChon.Size = new System.Drawing.Size(102, 32);
@@ -152,7 +154,7 @@
             // 
             // btnThoat
             // 
-            this.btnThoat.Location = new System.Drawing.Point(822, 294);
+            this.btnThoat.Location = new System.Drawing.Point(1242, 317);
             this.btnThoat.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnThoat.Name = "btnThoat";
             this.btnThoat.Size = new System.Drawing.Size(102, 34);
@@ -164,7 +166,7 @@
             // 
             this.panelXN.BackColor = System.Drawing.Color.Transparent;
             this.panelXN.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.panelXN.Location = new System.Drawing.Point(822, 45);
+            this.panelXN.Location = new System.Drawing.Point(1242, 68);
             this.panelXN.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.panelXN.Name = "panelXN";
             this.panelXN.Size = new System.Drawing.Size(142, 92);
@@ -173,7 +175,7 @@
             // picLuotQC
             // 
             this.picLuotQC.BackColor = System.Drawing.Color.Transparent;
-            this.picLuotQC.Location = new System.Drawing.Point(854, 560);
+            this.picLuotQC.Location = new System.Drawing.Point(1274, 583);
             this.picLuotQC.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.picLuotQC.Name = "picLuotQC";
             this.picLuotQC.Size = new System.Drawing.Size(33, 34);
@@ -182,7 +184,7 @@
             // 
             // btnRank
             // 
-            this.btnRank.Location = new System.Drawing.Point(822, 373);
+            this.btnRank.Location = new System.Drawing.Point(1242, 396);
             this.btnRank.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnRank.Name = "btnRank";
             this.btnRank.Size = new System.Drawing.Size(102, 54);
@@ -195,7 +197,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(1108, 742);
+            this.ClientSize = new System.Drawing.Size(1516, 1027);
             this.Controls.Add(this.panelXN);
             this.Controls.Add(this.btnThoat);
             this.Controls.Add(this.btnTuyChon);
@@ -213,6 +215,7 @@
             this.Text = "Trò chơi: cờ cá ngựa";
             this.Load += new System.EventHandler(this.XuLyChinh_Load);
             this.panelBC.ResumeLayout(false);
+            this.panelBC.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picLuotQC)).EndInit();
             this.ResumeLayout(false);
